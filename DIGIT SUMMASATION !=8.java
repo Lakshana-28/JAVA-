@@ -1,5 +1,6 @@
-#include<stdio.h>
-int main(void)
+import java.util.*;
+class summation{
+public static void main(String a[])
 {
  long int temp,rem=0,sum=0,n;
   for(n=0;n<=9999;n++){
@@ -20,4 +21,7 @@ int main(void)
 sum=0;
 }
 }
+}
+
+
 
